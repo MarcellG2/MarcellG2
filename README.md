@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning cryptology, python, and data center virtualization architecture.
+- 🌱 I’m currently learning automation and scaling using Chef.
 - 📫 How to reach me: <marcell.green1@gmail.com>
 - ⚡ Fun fact: Adult Fan of LEGO (AFOL) - Favorite Theme: [Architecture](https://www.lego.com/en-us/themes/architecture/about)
