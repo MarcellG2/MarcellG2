@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Unity.
+- 🌱 I’m currently learning TOGAF.
 - 📫 How to reach me: <marcell.green1@gmail.com>
 - ⚡ Fun fact: Adult Fan of LEGO (AFOL) - Favorite Theme: [Architecture](https://www.lego.com/en-us/themes/architecture/about)
